@@ -65,5 +65,9 @@
 				"framework": ["Bootstrap"]
 			}
 		]
-	}]
+	}],
+	"login": {
+		"user": "username",
+		"token": "user123"
+	}
 }

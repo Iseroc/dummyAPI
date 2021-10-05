@@ -1,6 +1,6 @@
 {
 	"surveys": [{
-		"id": "1",
+		"id": "foo1",
 		"model": {
 			"title": "Tell us, what technologies do you use?",
 			"pages": [{
@@ -56,13 +56,13 @@
 		}
 	}],
 	"submissions": [{
-			"surveyId": "1",
-			"id": "1",
+			"surveyId": "foo1",
+			"id": "bar1",
 			"pageNo": 0
 		},
 		{
-			"surveyId": "1",
-			"id": "2",
+			"surveyId": "foo1",
+			"id": "bar2",
 			"pageNo": 1,
 			"frameworkUsing": "Yes",
 			"framework": ["Bootstrap"]
